@@ -1,8 +1,3 @@
-はい、承知いたしました。
-与えられた Markdown テキストに含まれる C 言語のコードブロックを、Google clang-format スタイルガイドに準拠し、インデントをスペース 4 つに設定して整形します。Markdown の構造は維持します。
-
---- START OF FILE output_formatted.md ---
-
 μITRON 仕様準拠リアルタイムOS
 
 カーネル編
