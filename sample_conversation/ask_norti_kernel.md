@@ -14,7 +14,7 @@
 
 ## 埋め込みベクター処理用のモデル
 
-Snowflake Arctic Embed 2
+[Snowflake Arctic Embed 2](https://huggingface.co/Snowflake/snowflake-arctic-embed-l)
 
 パラメーター数 : 568m
 
@@ -26,7 +26,8 @@ Arctic Embed 2.0は、これまでのリリースで培った堅牢な基盤を�
 
 ## 推論(inference)用のモデル
 
-Alibaba Qwen3-32B-Q8_0.gguf
+[Alibaba Qwen3-32B-Q8_0.gguf](https://huggingface.co/Qwen/Qwen3-32B-GGUF)
+
 
 パラメーター数: 32B
 
@@ -36,11 +37,11 @@ Alibaba Qwen3-32B-Q8_0.gguf
 
 エディター: VSCode
 
-拡張機能  : Continue
+拡張機能  : [Continue](https://www.continue.dev/)
 
-LLM runner : Ollama (Docker container)
+LLM runner : [Ollama (Docker container)](https://ollama.com/library)
 
-LLM models : 上記の通り
+LLM models : 上記の通り, Arctic Embed 2(埋め込み用), Qwen 3(推論用)
 
 ---
 
