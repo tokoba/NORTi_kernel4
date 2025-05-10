@@ -693,6 +693,4 @@ int main(void) {
 
 ## 備考
 
-mermaid chart
-
-https://mermaid.js.org/syntax/examples.html
+[mermaid chart](https://mermaid.js.org/syntax/examples.html)
